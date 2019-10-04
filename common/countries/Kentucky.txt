@@ -1,4 +1,4 @@
 graphical_culture = USA
 graphical_culture_2d = USA
 
-color = { 30 150 34 }
+color = { 23 204 39 }
